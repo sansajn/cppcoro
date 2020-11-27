@@ -42,3 +42,5 @@ cpp20.Program('test/test', [
 cpp20.Program(['hello.cpp', cppcoro])
 
 cpp20.Program(['temp_test.cpp', cppcoro])
+
+cpp20.Program(['task1.cpp', cppcoro])
