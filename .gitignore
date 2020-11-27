@@ -10,3 +10,6 @@ build
 /cppcoro.files
 /cppcoro.includes
 /test/test
+/task1
+/temp_test
+/hello
